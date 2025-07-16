@@ -11,7 +11,19 @@ node_modules
 dist
 dist-ssr
 *.local
+# Ignore client and server dependencies
+client/node_modules/
+server/node_modules/
 
+# Vite/React build
+client/dist/
+
+# Env config
+.env
+
+# OS and editor junk
+.DS_Store
+.vscode/
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
