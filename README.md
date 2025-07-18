@@ -5,7 +5,7 @@
 
 Users can view foods, see condition-specific nutritional benefits, add items to cart, view prices, and checkout — all in a responsive dark-themed interface.
 
----
+live: https://mernokaybites.netlify.app/
 
 ## 🌟 Features
 
