@@ -13,7 +13,7 @@ h2{
 button:hover { transform: scale(1.05); }
 /* Set homepage background */
 .homepage {
-  background-image: url('okayimages/okaybackground.jpg');
+  background-image: url('/okayimages/okaybackground.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
